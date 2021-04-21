@@ -1,4 +1,4 @@
-% SA_probes_daymade_GitHub.m 
+% SA_probes_daymade.m 
 % Elizabeth S Van Itallie - 4/20/2021
 
 % Use this code to determine the amount of P32 labeled nucleotide and 
