@@ -1,4 +1,4 @@
-% SA_probes_daymade.m 
+% probes_labeling.m 
 % Elizabeth S Van Itallie - 4/20/2021
 
 % Use this code to determine the amount of P32 labeled nucleotide and 
